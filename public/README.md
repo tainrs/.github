@@ -31,6 +31,6 @@ Join our community to share your experiences, ask questions, and get support fro
 
 ## Contributing
 
-We welcome contributions from the community! If you have suggestions, improvements, or new features to propose, please check out our [contribution guidelines](https://github.com/tainrs/) and submit a pull request on our [GitHub repository](https://tainrs.dev/github).
+We welcome contributions from the community! If you have suggestions, improvements, or new features to propose, please check out our [contribution guidelines](https://github.com/tainrs/.github/blob/main/public/README.md) and submit a pull request on our [GitHub repository](https://tainrs.dev/github).
 
 Thank you for choosing Tainrs. We are committed to providing you with the best tools and support to ensure your success. Happy containerizing!
