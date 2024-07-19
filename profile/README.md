@@ -2,14 +2,6 @@
 
 Welcome to the official documentation site for Tainrs! Here, you will find instructions and reference materials for all our Docker containers. Whether you are a beginner looking to get started or an experienced user seeking advanced configurations, our documentation is designed to help you make the most out of our containers.
 
-## Container repositories
-
-- [Radarr](https://github.com/tainrs/radarr)
-- [Lidarr](https://github.com/tainrs/lidarr)
-- [Sonarr](https://github.com/tainrs/sonarr)
-- [Plex](https://github.com/tainrs/plex)
-- [Prowlarr](https://github.com/tainrs/prowlarr)
-
 ## What is Tainrs?
 
 Tainrs is a collection of Docker containers tailored to simplify and enhance your development and deployment workflows. Our containers cover a wide range of applications, from media servers to development tools, ensuring that you have reliable and efficient solutions at your fingertips.
@@ -27,11 +19,11 @@ To get started, explore the following sections:
 
 Here are some of the Docker containers you will find in our documentation:
 
-- **Lidarr**: A music collection manager for Usenet and BitTorrent users.
-- **Plex**: A powerful media server to organize and stream your media.
-- **Prowlarr**: An indexer manager/proxy for managing your indexers.
-- **Radarr**: A movie collection manager for Usenet and BitTorrent users.
-- **Sonarr**: A TV series collection manager for Usenet and BitTorrent users.
+- [**Lidarr**](https://github.com/tainrs/lidarr): A music collection manager for Usenet and BitTorrent users.
+- [**Plex**](https://github.com/tainrs/plex): A powerful media server to organize and stream your media.
+- [**Prowlarr**](https://github.com/tainrs/prowlarr): An indexer manager/proxy for managing your indexers.
+- [**Radarr**](https://github.com/tainrs/radarr): A movie collection manager for Usenet and BitTorrent users.
+- [**Sonarr**](https://github.com/tainrs/sonarr): A TV series collection manager for Usenet and BitTorrent users.
 
 ## Community and Support
 
