@@ -4,7 +4,7 @@ Welcome to the official documentation site for Tainrs! Here, you will find instr
 
 ## Container repositories
 
-- [Radarr](https://github.com/tainrs/radarr
+- [Radarr](https://github.com/tainrs/radarr)
 - [Lidarr](https://github.com/tainrs/lidarr)
 - [Sonarr](https://github.com/tainrs/sonarr)
 - [Plex](https://github.com/tainrs/plex)
