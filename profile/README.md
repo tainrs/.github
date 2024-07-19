@@ -2,6 +2,14 @@
 
 Welcome to the official documentation site for Tainrs! Here, you will find instructions and reference materials for all our Docker containers. Whether you are a beginner looking to get started or an experienced user seeking advanced configurations, our documentation is designed to help you make the most out of our containers.
 
+## Container repositories
+
+- [Radarr](https://github.com/tainrs/radarr
+- [Lidarr](https://github.com/tainrs/lidarr)
+- [Sonarr](https://github.com/tainrs/sonarr)
+- [Plex](https://github.com/tainrs/plex)
+- [Prowlarr](https://github.com/tainrs/prowlarr)
+
 ## What is Tainrs?
 
 Tainrs is a collection of Docker containers tailored to simplify and enhance your development and deployment workflows. Our containers cover a wide range of applications, from media servers to development tools, ensuring that you have reliable and efficient solutions at your fingertips.
