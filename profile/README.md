@@ -10,10 +10,7 @@ Tainrs is a collection of Docker containers tailored to simplify and enhance you
 
 To get started, explore the following sections:
 
-- **Quick Start Guides**: Step-by-step instructions to help you set up and run our containers quickly.
-- **Configuration**: Detailed information on configuring each container to suit your specific needs.
-- **Advanced Usage**: Tips and tricks for optimizing performance and leveraging advanced features.
-- **Troubleshooting**: Solutions to common issues and FAQs to help you resolve problems swiftly.
+- [**Docs**](https://tainrs.dev): Tainrs documentation and usage information.
 
 ## Available Containers
 
